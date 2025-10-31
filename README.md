@@ -3,10 +3,13 @@
 
 # EXPERIMENT – 3: Scenario-Based Report Development with Diverse Prompting Methods
 
+### NAME : GUGAPRIYA P
+
 ### Register No.: 212223060075
 
 ### Date: 05.09.2025
 
+### Institution : SAVEETHA ENGINEERING COLLEGE
 ---
 
 ## Aim:
