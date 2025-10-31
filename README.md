@@ -52,6 +52,9 @@ Three scenarios were tested with all three prompting types. The responses were a
 
 ### Scenario 1: Product Troubleshooting
 
+<img width="578" height="387" alt="image" src="https://github.com/user-attachments/assets/11cf59c5-4c26-4a3e-bd6f-a6a8f66e4305" />
+
+
 | **Prompt Type**              | **Example Prompt**                                                         | **Sample Output**                                      |
 | ---------------------------- | -------------------------------------------------------------------------- | ------------------------------------------------------ |
 | Straightforward Prompting    | “My washing machine is not draining water. What should I do?”              | *Check drain pipe, remove blockages, restart machine.* |
@@ -105,6 +108,8 @@ Three scenarios were tested with all three prompting types. The responses were a
 | Refund          | Processed within 7 business days. |
 
 ---
+
+<img width="533" height="411" alt="image" src="https://github.com/user-attachments/assets/75420d0b-10ed-444e-a51d-e5d7c4c7c885" />
 
 ## Observations:
 
